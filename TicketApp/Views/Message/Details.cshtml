@@ -1,0 +1,33 @@
+﻿@model TicketApp.Models.Message
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Ticket number @Model.Id</h2>
+
+<ul style="list-style: none;">
+    <li>Subject: @Model.Subject</li>
+    <li>Poster: @Model.Name</li>
+    <li>Date Posted: @Model.DatePosted</li>
+    <li>Tech: @Model.Tech.Name</li>
+    <li>Issue: @Model.Body</li>
+</ul>
+
+<h3>Replies for @Model.Subject</h3>
+
+@foreach (var r in Model.Replies)
+{
+    <ul style="list-style: none;">
+        <li>Poster: @r.Name</li>
+        <li>Body: @r.Body</li>
+        <li>Date Replied: @r.DatePosted<br /><br /></li>
+    </ul>
+}
+
+
+
+@Html.ActionLink("Reply", "CreateReply", "Message", new { id = Model.Id }, new { @class = "btn btn-success" })
+@Html.ActionLink("Back To List", "Index", "Message", null, new { @class = "btn btn-primary" })
+
+

@@ -1,0 +1,29 @@
+﻿@model TicketApp.Models.Tech
+
+@{
+    ViewBag.Title = "Add Tech";
+}
+
+<h2>Add Tech</h2>
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+  <div class="form-horizontal">
+    <hr />
+    @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+    <div class="form-group">
+        @Html.LabelFor(model => model.Name, htmlAttributes: new { @class = "control-label " })
+        <div class="col-md-10">
+            @Html.EditorFor(model => model.Name, new { htmlAttributes = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(model => model.Name, "", new { @class = "text-danger" })
+        </div>
+    </div>
+  </div>
+
+    <div>
+        <input type="submit" value="Add Tech" class="btn btn-success" />
+        @Html.ActionLink("Back To List", "Index", "Message", null, new { @class = "btn btn-primary" })
+    </div>
+}

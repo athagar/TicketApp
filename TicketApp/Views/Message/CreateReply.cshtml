@@ -1,0 +1,40 @@
+﻿@model TicketApp.Models.Reply
+
+
+@{
+                /**/
+
+                ViewBag.Title = "Create Reply";
+}
+
+<h2>Create Reply</h2>
+
+@using (Html.BeginForm("CreateReply", "Message"))
+
+{
+    <div class="form-group">
+        @Html.LabelFor(m => m.Name)
+        @Html.TextBoxFor(m => m.Name, new { @class = "form-control" })
+    </div>
+
+
+    <div class="form-group">
+        @Html.LabelFor(m => m.Body)
+        @Html.TextAreaFor(m => m.Body, new { @class = "form-control" })
+    </div>
+
+    <div >
+            @Html.ActionLink("Back To List", "Index", "Message", null, new { @class = "btn btn-primary" })
+            <input type="submit" value="Create New Reply" class="btn btn-success" />
+        
+    </div>
+
+    @*<div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                @Html.ActionLink("Back To List", "Index", "Message", null, new { @class = "btn btn-primary" })
+                <input type="submit" value="Create New Reply" class="btn btn-primary" />
+            </div>
+        </div>*@
+
+
+}

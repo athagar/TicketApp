@@ -1,0 +1,50 @@
+﻿@model TicketApp.ViewModels.MessageTechViewModel
+
+@{
+    ViewBag.Title = "Edit";
+}
+
+<h2>Edit ticket number @Model.Message.Id</h2>
+
+@using (Html.BeginForm("Edit", "Message"))
+{
+    <div class="form-group">
+        @Html.LabelFor(m => m.Message.Name)
+        @Html.TextBoxFor(m => m.Message.Name, new { @class = "form-control" })
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(m => m.Message.Subject)
+        @Html.TextBoxFor(m => m.Message.Subject, new { @class = "form-control" })
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(m => m.Message.Body)
+        @Html.TextAreaFor(m => m.Message.Body, new { @class = "form-control" })
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(m => m.Message.TechId)
+        @Html.DropDownListFor(m => m.Message.TechId, new SelectList(Model.Teches, "Id", "Name"), "Select Tech", new { @class = "form-control" })
+    </div>
+    @Html.HiddenFor(m => m.Message.Id)
+    <button type="submit" class="btn btn-primary">Save Changes</button>
+    @Html.ActionLink("Back To List", "Index", "Message", null, new { @class = "btn btn-success" }) 
+    @Html.ActionLink("Delete Ticket", "ConfirmDelete", "Message", new { id = Model.Message.Id }, new { @class = "btn btn-danger" })
+}
+
+@*<h3>Replies for @Model.Message.Subject</h3>
+
+    @foreach (var r in Model.Message.Replies)
+    {
+        <ul style="list-style: none;">
+            <li>Poster: @r.Name</li>
+            <li>Body: @r.Body</li>
+            <li>Date Replied: @r.DatePosted<br /><br /></li>
+        </ul>
+    }*@
+
+
+
+
+@*@Html.ActionLink("Back To List", "Index", "Message", null, new { @class = "btn btn-primary" })
+@Html.ActionLink("Delete Ticket", "ConfirmDelete", "Message", new { id = Model.Message.Id }, new { @class = "btn btn-danger" })*@

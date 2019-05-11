@@ -1,0 +1,39 @@
+﻿@model  IEnumerable<TicketApp.Models.Message>
+
+@{
+    ViewBag.Title = "Admin Index";
+}
+
+<h2>Admin Index</h2>
+
+<p>
+    @Html.ActionLink("New Ticket", "New", "Message", null, new { @class = "btn btn-primary" })
+</p>
+
+<table class="table table-bordered table-hover">
+    <thead>
+        <tr>
+            <th>Post Number</th>
+            <th>Subject</th>
+            <th>User Name</th>
+            <th>Date Posted</th>
+            <th>Body</th>
+            <th>Tech</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var message in Model)
+        {
+            <tr>
+                <td>@Html.ActionLink("Edit Ticket "+message.Id.ToString(), "Edit", "Message", new { id = message.Id }, null)</td>
+                <td>@message.Subject</td>
+                <td>@message.Name</td>
+                <td>@message.DatePosted</td>
+                <td>@message.Body</td>
+                <td>@message.Tech.Name</td>
+
+            </tr>
+        }
+    </tbody>
+</table>
+

@@ -1,0 +1,49 @@
+﻿@model IEnumerable<TicketApp.Models.Tech>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+
+
+<div class="container">
+    <h2>Techs</h2>
+    @Html.ActionLink("New Tech", "Create", "Tech", null, new { @class = "btn btn-primary" })
+    <div class="row">
+        <div class="col=xs-2 col-sm-2 col-md-2 col-lg-2">
+            <table class="table table-bordered table-hover">
+                <thead>
+                    <tr>
+                        <th>Tech Name</th>
+                        <th>Delete</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var tech in Model)
+                    {
+                        <tr>
+                            <td>@tech.Name</td>
+                            <td>@Html.ActionLink("Delete Tech", "Delete", "Tech", new { id = tech.Id }, new { @class = "btn btn-danger" })</td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
+
+@*<table class="table table-bordered table-hover">
+        <thead>
+            <tr>
+                <th>Tech Name</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var tech in Model)
+            {
+                <tr>
+                    <td>@tech.Name</td>
+                </tr>
+            }
+        </tbody>
+    </table>*@

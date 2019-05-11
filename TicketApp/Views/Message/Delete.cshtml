@@ -1,0 +1,17 @@
+﻿@model TicketApp.Models.Message
+
+@{
+    ViewBag.Title = "Confirm Delete";
+}
+
+<h2>Really delete Ticket number @Model.Id?</h2>
+
+<ul style="list-style: none;">
+    <li>Subject: @Model.Subject</li>
+    <li>Poster: @Model.Name</li>
+    <li>Date Posted: @Model.DatePosted</li>
+    <li>Issue: @Model.Body</li>
+</ul>
+
+
+@Html.ActionLink("Delete Ticket", "Delete", "Message", new { id = Model.Id }, new { @class = "btn btn-danger" })

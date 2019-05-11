@@ -1,0 +1,54 @@
+﻿@model TicketApp.ViewModels.MessageTechViewModel
+
+@{
+
+    ViewBag.Title = "New Ticket";
+}
+
+<h2>New Ticket</h2>
+
+@using (Html.BeginForm("New", "Message"))  // check GET and POST actions.  I think we need 2 different New and/or Edit actions
+
+{
+    <div class="form-group">
+        @Html.LabelFor(m => m.Message.Name)
+        @Html.TextBoxFor(m => m.Message.Name, new { @class = "form-control" })
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(m => m.Message.Subject)
+        @Html.TextBoxFor(m => m.Message.Subject, new { @class = "form-control" })
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(m => m.Message.Body)
+        @Html.TextAreaFor(m => m.Message.Body, new { @class = "form-control" })
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(m => m.Message.TechId)
+        @Html.DropDownListFor(m => m.Message.TechId, new SelectList(Model.Teches, "Id", "Name"), "Select Tech", new { @class = "form-control" })
+        
+    </div>
+
+    <div class="form-group">
+        <div class="col-md-offset-2 col-md-10">
+
+        </div>
+    </div>
+
+    <div>
+        <input type="submit" value="Create New Ticket" class="btn btn-success" />
+        @Html.ActionLink("Back To List", "Index", "Message", null, new { @class = "btn btn-primary" })
+    </div>
+
+    @*<div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Create New Ticket" class="btn btn-primary" />
+            </div>
+        </div>
+
+        <div>
+            @Html.ActionLink("Back To List", "Index", "Message", null, new { @class = "btn btn-primary" })
+        </div>*@
+}
