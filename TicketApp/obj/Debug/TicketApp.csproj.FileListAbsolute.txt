@@ -1,0 +1,664 @@
+C:\Users\_\source\repos\TicketApp\TicketApp\bin\TicketApp.dll.config
+C:\Users\_\source\repos\TicketApp\TicketApp\bin\TicketApp.dll
+C:\Users\_\source\repos\TicketApp\TicketApp\bin\TicketApp.pdb
+C:\Users\_\source\repos\TicketApp\TicketApp\bin\roslyn\csc.exe
+C:\Users\_\source\repos\TicketApp\TicketApp\bin\roslyn\csc.exe.config
+C:\Users\_\source\repos\TicketApp\TicketApp\bin\roslyn\csc.rsp
+C:\Users\_\source\repos\TicketApp\TicketApp\bin\roslyn\csi.exe
+C:\Users\_\source\repos\TicketApp\TicketApp\bin\roslyn\csi.rsp
+C:\Users\_\source\repos\TicketApp\TicketApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\_\source\repos\TicketApp\TicketApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\_\source\repos\TicketApp\TicketApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\_\source\repos\TicketApp\TicketApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\_\source\repos\TicketApp\TicketApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\_\source\repos\TicketApp\TicketApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\_\source\repos\TicketApp\TicketApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\_\source\repos\TicketApp\TicketApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\_\source\repos\TicketApp\TicketApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\_\source\repos\TicketApp\TicketApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\_\source\repos\TicketApp\TicketApp\bin\roslyn\System.AppContext.dll
+C:\Users\_\source\repos\TicketApp\TicketApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\_\source\repos\TicketApp\TicketApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\_\source\repos\TicketApp\TicketApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\_\source\repos\TicketApp\TicketApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\_\source\repos\TicketApp\TicketApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\_\source\repos\TicketApp\TicketApp\bin\roslyn\vbc.exe
+C:\Users\_\source\repos\TicketApp\TicketApp\bin\roslyn\vbc.exe.config
+C:\Users\_\source\repos\TicketApp\TicketApp\bin\roslyn\vbc.rsp
+C:\Users\_\source\repos\TicketApp\TicketApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\_\source\repos\TicketApp\TicketApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\_\source\repos\TicketApp\TicketApp\bin\Antlr3.Runtime.dll
+C:\Users\_\source\repos\TicketApp\TicketApp\bin\EntityFramework.dll
+C:\Users\_\source\repos\TicketApp\TicketApp\bin\EntityFramework.SqlServer.dll
+C:\Users\_\source\repos\TicketApp\TicketApp\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\_\source\repos\TicketApp\TicketApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\_\source\repos\TicketApp\TicketApp\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\_\source\repos\TicketApp\TicketApp\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\_\source\repos\TicketApp\TicketApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\_\source\repos\TicketApp\TicketApp\bin\Microsoft.Owin.dll
+C:\Users\_\source\repos\TicketApp\TicketApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\_\source\repos\TicketApp\TicketApp\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\_\source\repos\TicketApp\TicketApp\bin\Microsoft.Owin.Security.dll
+C:\Users\_\source\repos\TicketApp\TicketApp\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\_\source\repos\TicketApp\TicketApp\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\_\source\repos\TicketApp\TicketApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\_\source\repos\TicketApp\TicketApp\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\_\source\repos\TicketApp\TicketApp\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\_\source\repos\TicketApp\TicketApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\_\source\repos\TicketApp\TicketApp\bin\Newtonsoft.Json.dll
+C:\Users\_\source\repos\TicketApp\TicketApp\bin\Owin.dll
+C:\Users\_\source\repos\TicketApp\TicketApp\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\_\source\repos\TicketApp\TicketApp\bin\System.Web.Helpers.dll
+C:\Users\_\source\repos\TicketApp\TicketApp\bin\System.Web.Mvc.dll
+C:\Users\_\source\repos\TicketApp\TicketApp\bin\System.Web.Optimization.dll
+C:\Users\_\source\repos\TicketApp\TicketApp\bin\System.Web.Razor.dll
+C:\Users\_\source\repos\TicketApp\TicketApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\_\source\repos\TicketApp\TicketApp\bin\System.Web.WebPages.dll
+C:\Users\_\source\repos\TicketApp\TicketApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\_\source\repos\TicketApp\TicketApp\bin\WebGrease.dll
+C:\Users\_\source\repos\TicketApp\TicketApp\bin\System.Web.Helpers.xml
+C:\Users\_\source\repos\TicketApp\TicketApp\bin\System.Web.Mvc.xml
+C:\Users\_\source\repos\TicketApp\TicketApp\bin\System.Web.Optimization.xml
+C:\Users\_\source\repos\TicketApp\TicketApp\bin\System.Web.Razor.xml
+C:\Users\_\source\repos\TicketApp\TicketApp\bin\System.Web.WebPages.xml
+C:\Users\_\source\repos\TicketApp\TicketApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\_\source\repos\TicketApp\TicketApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\_\source\repos\TicketApp\TicketApp\bin\Newtonsoft.Json.xml
+C:\Users\_\source\repos\TicketApp\TicketApp\bin\Antlr3.Runtime.pdb
+C:\Users\_\source\repos\TicketApp\TicketApp\bin\EntityFramework.xml
+C:\Users\_\source\repos\TicketApp\TicketApp\bin\EntityFramework.SqlServer.xml
+C:\Users\_\source\repos\TicketApp\TicketApp\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\_\source\repos\TicketApp\TicketApp\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\_\source\repos\TicketApp\TicketApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\_\source\repos\TicketApp\TicketApp\bin\Microsoft.Owin.xml
+C:\Users\_\source\repos\TicketApp\TicketApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\_\source\repos\TicketApp\TicketApp\bin\Microsoft.Owin.Security.xml
+C:\Users\_\source\repos\TicketApp\TicketApp\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\_\source\repos\TicketApp\TicketApp\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\_\source\repos\TicketApp\TicketApp\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\_\source\repos\TicketApp\TicketApp\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\_\source\repos\TicketApp\TicketApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\_\source\repos\TicketApp\TicketApp\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\_\source\repos\TicketApp\TicketApp\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\_\source\repos\TicketApp\TicketApp\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\_\source\repos\TicketApp\TicketApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\_\source\repos\TicketApp\TicketApp\obj\Debug\TicketApp.csprojAssemblyReference.cache
+C:\Users\_\source\repos\TicketApp\TicketApp\obj\Debug\TicketApp.csproj.CoreCompileInputs.cache
+C:\Users\_\source\repos\TicketApp\TicketApp\obj\Debug\TicketApp.csproj.CopyComplete
+C:\Users\_\source\repos\TicketApp\TicketApp\obj\Debug\TicketApp.dll
+C:\Users\_\source\repos\TicketApp\TicketApp\obj\Debug\TicketApp.pdb
+C:\Users\_\source\repos\TicketApp\TicketApp\obj\Debug\TicketApp.Migrations.InitialMigration.resources
+C:\Users\_\source\repos\TicketApp\TicketApp\obj\Debug\TicketApp.csproj.GenerateResource.cache
+C:\Users\_\source\repos\TicketApp\TicketApp\obj\Debug\TicketApp.Migrations.AddCustomer.resources
+C:\Users\_\source\repos\TicketApp\TicketApp\obj\Debug\TicketApp.Migrations.AddSubjectAndDatePostedToMessage.resources
+C:\Users\ahagar_adm\Desktop\Andy's Stuff\C#\TicketApp\TicketApp042219\TicketApp\bin\TicketApp.dll.config
+C:\Users\ahagar_adm\Desktop\Andy's Stuff\C#\TicketApp\TicketApp042219\TicketApp\bin\TicketApp.dll
+C:\Users\ahagar_adm\Desktop\Andy's Stuff\C#\TicketApp\TicketApp042219\TicketApp\bin\TicketApp.pdb
+C:\Users\ahagar_adm\Desktop\Andy's Stuff\C#\TicketApp\TicketApp042219\TicketApp\bin\roslyn\csc.exe
+C:\Users\ahagar_adm\Desktop\Andy's Stuff\C#\TicketApp\TicketApp042219\TicketApp\bin\roslyn\csc.exe.config
+C:\Users\ahagar_adm\Desktop\Andy's Stuff\C#\TicketApp\TicketApp042219\TicketApp\bin\roslyn\csc.rsp
+C:\Users\ahagar_adm\Desktop\Andy's Stuff\C#\TicketApp\TicketApp042219\TicketApp\bin\roslyn\csi.exe
+C:\Users\ahagar_adm\Desktop\Andy's Stuff\C#\TicketApp\TicketApp042219\TicketApp\bin\roslyn\csi.rsp
+C:\Users\ahagar_adm\Desktop\Andy's Stuff\C#\TicketApp\TicketApp042219\TicketApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ahagar_adm\Desktop\Andy's Stuff\C#\TicketApp\TicketApp042219\TicketApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ahagar_adm\Desktop\Andy's Stuff\C#\TicketApp\TicketApp042219\TicketApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ahagar_adm\Desktop\Andy's Stuff\C#\TicketApp\TicketApp042219\TicketApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ahagar_adm\Desktop\Andy's Stuff\C#\TicketApp\TicketApp042219\TicketApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ahagar_adm\Desktop\Andy's Stuff\C#\TicketApp\TicketApp042219\TicketApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ahagar_adm\Desktop\Andy's Stuff\C#\TicketApp\TicketApp042219\TicketApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ahagar_adm\Desktop\Andy's Stuff\C#\TicketApp\TicketApp042219\TicketApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ahagar_adm\Desktop\Andy's Stuff\C#\TicketApp\TicketApp042219\TicketApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ahagar_adm\Desktop\Andy's Stuff\C#\TicketApp\TicketApp042219\TicketApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ahagar_adm\Desktop\Andy's Stuff\C#\TicketApp\TicketApp042219\TicketApp\bin\roslyn\System.AppContext.dll
+C:\Users\ahagar_adm\Desktop\Andy's Stuff\C#\TicketApp\TicketApp042219\TicketApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ahagar_adm\Desktop\Andy's Stuff\C#\TicketApp\TicketApp042219\TicketApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ahagar_adm\Desktop\Andy's Stuff\C#\TicketApp\TicketApp042219\TicketApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ahagar_adm\Desktop\Andy's Stuff\C#\TicketApp\TicketApp042219\TicketApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ahagar_adm\Desktop\Andy's Stuff\C#\TicketApp\TicketApp042219\TicketApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ahagar_adm\Desktop\Andy's Stuff\C#\TicketApp\TicketApp042219\TicketApp\bin\roslyn\vbc.exe
+C:\Users\ahagar_adm\Desktop\Andy's Stuff\C#\TicketApp\TicketApp042219\TicketApp\bin\roslyn\vbc.exe.config
+C:\Users\ahagar_adm\Desktop\Andy's Stuff\C#\TicketApp\TicketApp042219\TicketApp\bin\roslyn\vbc.rsp
+C:\Users\ahagar_adm\Desktop\Andy's Stuff\C#\TicketApp\TicketApp042219\TicketApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\ahagar_adm\Desktop\Andy's Stuff\C#\TicketApp\TicketApp042219\TicketApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ahagar_adm\Desktop\Andy's Stuff\C#\TicketApp\TicketApp042219\TicketApp\bin\Antlr3.Runtime.dll
+C:\Users\ahagar_adm\Desktop\Andy's Stuff\C#\TicketApp\TicketApp042219\TicketApp\bin\EntityFramework.dll
+C:\Users\ahagar_adm\Desktop\Andy's Stuff\C#\TicketApp\TicketApp042219\TicketApp\bin\EntityFramework.SqlServer.dll
+C:\Users\ahagar_adm\Desktop\Andy's Stuff\C#\TicketApp\TicketApp042219\TicketApp\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ahagar_adm\Desktop\Andy's Stuff\C#\TicketApp\TicketApp042219\TicketApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\ahagar_adm\Desktop\Andy's Stuff\C#\TicketApp\TicketApp042219\TicketApp\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\ahagar_adm\Desktop\Andy's Stuff\C#\TicketApp\TicketApp042219\TicketApp\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\ahagar_adm\Desktop\Andy's Stuff\C#\TicketApp\TicketApp042219\TicketApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ahagar_adm\Desktop\Andy's Stuff\C#\TicketApp\TicketApp042219\TicketApp\bin\Microsoft.Owin.dll
+C:\Users\ahagar_adm\Desktop\Andy's Stuff\C#\TicketApp\TicketApp042219\TicketApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ahagar_adm\Desktop\Andy's Stuff\C#\TicketApp\TicketApp042219\TicketApp\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\ahagar_adm\Desktop\Andy's Stuff\C#\TicketApp\TicketApp042219\TicketApp\bin\Microsoft.Owin.Security.dll
+C:\Users\ahagar_adm\Desktop\Andy's Stuff\C#\TicketApp\TicketApp042219\TicketApp\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\ahagar_adm\Desktop\Andy's Stuff\C#\TicketApp\TicketApp042219\TicketApp\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\ahagar_adm\Desktop\Andy's Stuff\C#\TicketApp\TicketApp042219\TicketApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\ahagar_adm\Desktop\Andy's Stuff\C#\TicketApp\TicketApp042219\TicketApp\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\ahagar_adm\Desktop\Andy's Stuff\C#\TicketApp\TicketApp042219\TicketApp\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\ahagar_adm\Desktop\Andy's Stuff\C#\TicketApp\TicketApp042219\TicketApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ahagar_adm\Desktop\Andy's Stuff\C#\TicketApp\TicketApp042219\TicketApp\bin\Newtonsoft.Json.dll
+C:\Users\ahagar_adm\Desktop\Andy's Stuff\C#\TicketApp\TicketApp042219\TicketApp\bin\Owin.dll
+C:\Users\ahagar_adm\Desktop\Andy's Stuff\C#\TicketApp\TicketApp042219\TicketApp\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ahagar_adm\Desktop\Andy's Stuff\C#\TicketApp\TicketApp042219\TicketApp\bin\System.Web.Helpers.dll
+C:\Users\ahagar_adm\Desktop\Andy's Stuff\C#\TicketApp\TicketApp042219\TicketApp\bin\System.Web.Mvc.dll
+C:\Users\ahagar_adm\Desktop\Andy's Stuff\C#\TicketApp\TicketApp042219\TicketApp\bin\System.Web.Optimization.dll
+C:\Users\ahagar_adm\Desktop\Andy's Stuff\C#\TicketApp\TicketApp042219\TicketApp\bin\System.Web.Razor.dll
+C:\Users\ahagar_adm\Desktop\Andy's Stuff\C#\TicketApp\TicketApp042219\TicketApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ahagar_adm\Desktop\Andy's Stuff\C#\TicketApp\TicketApp042219\TicketApp\bin\System.Web.WebPages.dll
+C:\Users\ahagar_adm\Desktop\Andy's Stuff\C#\TicketApp\TicketApp042219\TicketApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\ahagar_adm\Desktop\Andy's Stuff\C#\TicketApp\TicketApp042219\TicketApp\bin\WebGrease.dll
+C:\Users\ahagar_adm\Desktop\Andy's Stuff\C#\TicketApp\TicketApp042219\TicketApp\bin\System.Web.Helpers.xml
+C:\Users\ahagar_adm\Desktop\Andy's Stuff\C#\TicketApp\TicketApp042219\TicketApp\bin\System.Web.Mvc.xml
+C:\Users\ahagar_adm\Desktop\Andy's Stuff\C#\TicketApp\TicketApp042219\TicketApp\bin\System.Web.Optimization.xml
+C:\Users\ahagar_adm\Desktop\Andy's Stuff\C#\TicketApp\TicketApp042219\TicketApp\bin\System.Web.Razor.xml
+C:\Users\ahagar_adm\Desktop\Andy's Stuff\C#\TicketApp\TicketApp042219\TicketApp\bin\System.Web.WebPages.xml
+C:\Users\ahagar_adm\Desktop\Andy's Stuff\C#\TicketApp\TicketApp042219\TicketApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ahagar_adm\Desktop\Andy's Stuff\C#\TicketApp\TicketApp042219\TicketApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\ahagar_adm\Desktop\Andy's Stuff\C#\TicketApp\TicketApp042219\TicketApp\bin\Newtonsoft.Json.xml
+C:\Users\ahagar_adm\Desktop\Andy's Stuff\C#\TicketApp\TicketApp042219\TicketApp\bin\Antlr3.Runtime.pdb
+C:\Users\ahagar_adm\Desktop\Andy's Stuff\C#\TicketApp\TicketApp042219\TicketApp\bin\EntityFramework.xml
+C:\Users\ahagar_adm\Desktop\Andy's Stuff\C#\TicketApp\TicketApp042219\TicketApp\bin\EntityFramework.SqlServer.xml
+C:\Users\ahagar_adm\Desktop\Andy's Stuff\C#\TicketApp\TicketApp042219\TicketApp\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ahagar_adm\Desktop\Andy's Stuff\C#\TicketApp\TicketApp042219\TicketApp\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\ahagar_adm\Desktop\Andy's Stuff\C#\TicketApp\TicketApp042219\TicketApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ahagar_adm\Desktop\Andy's Stuff\C#\TicketApp\TicketApp042219\TicketApp\bin\Microsoft.Owin.xml
+C:\Users\ahagar_adm\Desktop\Andy's Stuff\C#\TicketApp\TicketApp042219\TicketApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ahagar_adm\Desktop\Andy's Stuff\C#\TicketApp\TicketApp042219\TicketApp\bin\Microsoft.Owin.Security.xml
+C:\Users\ahagar_adm\Desktop\Andy's Stuff\C#\TicketApp\TicketApp042219\TicketApp\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\ahagar_adm\Desktop\Andy's Stuff\C#\TicketApp\TicketApp042219\TicketApp\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\ahagar_adm\Desktop\Andy's Stuff\C#\TicketApp\TicketApp042219\TicketApp\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\ahagar_adm\Desktop\Andy's Stuff\C#\TicketApp\TicketApp042219\TicketApp\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\ahagar_adm\Desktop\Andy's Stuff\C#\TicketApp\TicketApp042219\TicketApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\ahagar_adm\Desktop\Andy's Stuff\C#\TicketApp\TicketApp042219\TicketApp\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\ahagar_adm\Desktop\Andy's Stuff\C#\TicketApp\TicketApp042219\TicketApp\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\ahagar_adm\Desktop\Andy's Stuff\C#\TicketApp\TicketApp042219\TicketApp\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\ahagar_adm\Desktop\Andy's Stuff\C#\TicketApp\TicketApp042219\TicketApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ahagar_adm\Desktop\Andy's Stuff\C#\TicketApp\TicketApp042219\TicketApp\obj\Debug\TicketApp.csprojAssemblyReference.cache
+C:\Users\ahagar_adm\Desktop\Andy's Stuff\C#\TicketApp\TicketApp042219\TicketApp\obj\Debug\TicketApp.Migrations.InitialMigration.resources
+C:\Users\ahagar_adm\Desktop\Andy's Stuff\C#\TicketApp\TicketApp042219\TicketApp\obj\Debug\TicketApp.Migrations.AddCustomer.resources
+C:\Users\ahagar_adm\Desktop\Andy's Stuff\C#\TicketApp\TicketApp042219\TicketApp\obj\Debug\TicketApp.Migrations.AddSubjectAndDatePostedToMessage.resources
+C:\Users\ahagar_adm\Desktop\Andy's Stuff\C#\TicketApp\TicketApp042219\TicketApp\obj\Debug\TicketApp.csproj.GenerateResource.cache
+C:\Users\ahagar_adm\Desktop\Andy's Stuff\C#\TicketApp\TicketApp042219\TicketApp\obj\Debug\TicketApp.csproj.CoreCompileInputs.cache
+C:\Users\ahagar_adm\Desktop\Andy's Stuff\C#\TicketApp\TicketApp042219\TicketApp\obj\Debug\TicketApp.csproj.CopyComplete
+C:\Users\ahagar_adm\Desktop\Andy's Stuff\C#\TicketApp\TicketApp042219\TicketApp\obj\Debug\TicketApp.dll
+C:\Users\ahagar_adm\Desktop\Andy's Stuff\C#\TicketApp\TicketApp042219\TicketApp\obj\Debug\TicketApp.pdb
+C:\Users\ahagar_adm\Desktop\Andy's Stuff\C#\TicketApp\TicketApp042319 - Copy\TicketApp\bin\TicketApp.dll.config
+C:\Users\ahagar_adm\Desktop\Andy's Stuff\C#\TicketApp\TicketApp042319 - Copy\TicketApp\bin\TicketApp.dll
+C:\Users\ahagar_adm\Desktop\Andy's Stuff\C#\TicketApp\TicketApp042319 - Copy\TicketApp\bin\TicketApp.pdb
+C:\Users\ahagar_adm\Desktop\Andy's Stuff\C#\TicketApp\TicketApp042319 - Copy\TicketApp\bin\roslyn\csc.exe
+C:\Users\ahagar_adm\Desktop\Andy's Stuff\C#\TicketApp\TicketApp042319 - Copy\TicketApp\bin\roslyn\csc.exe.config
+C:\Users\ahagar_adm\Desktop\Andy's Stuff\C#\TicketApp\TicketApp042319 - Copy\TicketApp\bin\roslyn\csc.rsp
+C:\Users\ahagar_adm\Desktop\Andy's Stuff\C#\TicketApp\TicketApp042319 - Copy\TicketApp\bin\roslyn\csi.exe
+C:\Users\ahagar_adm\Desktop\Andy's Stuff\C#\TicketApp\TicketApp042319 - Copy\TicketApp\bin\roslyn\csi.rsp
+C:\Users\ahagar_adm\Desktop\Andy's Stuff\C#\TicketApp\TicketApp042319 - Copy\TicketApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ahagar_adm\Desktop\Andy's Stuff\C#\TicketApp\TicketApp042319 - Copy\TicketApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ahagar_adm\Desktop\Andy's Stuff\C#\TicketApp\TicketApp042319 - Copy\TicketApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ahagar_adm\Desktop\Andy's Stuff\C#\TicketApp\TicketApp042319 - Copy\TicketApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ahagar_adm\Desktop\Andy's Stuff\C#\TicketApp\TicketApp042319 - Copy\TicketApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ahagar_adm\Desktop\Andy's Stuff\C#\TicketApp\TicketApp042319 - Copy\TicketApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ahagar_adm\Desktop\Andy's Stuff\C#\TicketApp\TicketApp042319 - Copy\TicketApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ahagar_adm\Desktop\Andy's Stuff\C#\TicketApp\TicketApp042319 - Copy\TicketApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ahagar_adm\Desktop\Andy's Stuff\C#\TicketApp\TicketApp042319 - Copy\TicketApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ahagar_adm\Desktop\Andy's Stuff\C#\TicketApp\TicketApp042319 - Copy\TicketApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ahagar_adm\Desktop\Andy's Stuff\C#\TicketApp\TicketApp042319 - Copy\TicketApp\bin\roslyn\System.AppContext.dll
+C:\Users\ahagar_adm\Desktop\Andy's Stuff\C#\TicketApp\TicketApp042319 - Copy\TicketApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ahagar_adm\Desktop\Andy's Stuff\C#\TicketApp\TicketApp042319 - Copy\TicketApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ahagar_adm\Desktop\Andy's Stuff\C#\TicketApp\TicketApp042319 - Copy\TicketApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ahagar_adm\Desktop\Andy's Stuff\C#\TicketApp\TicketApp042319 - Copy\TicketApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ahagar_adm\Desktop\Andy's Stuff\C#\TicketApp\TicketApp042319 - Copy\TicketApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ahagar_adm\Desktop\Andy's Stuff\C#\TicketApp\TicketApp042319 - Copy\TicketApp\bin\roslyn\vbc.exe
+C:\Users\ahagar_adm\Desktop\Andy's Stuff\C#\TicketApp\TicketApp042319 - Copy\TicketApp\bin\roslyn\vbc.exe.config
+C:\Users\ahagar_adm\Desktop\Andy's Stuff\C#\TicketApp\TicketApp042319 - Copy\TicketApp\bin\roslyn\vbc.rsp
+C:\Users\ahagar_adm\Desktop\Andy's Stuff\C#\TicketApp\TicketApp042319 - Copy\TicketApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\ahagar_adm\Desktop\Andy's Stuff\C#\TicketApp\TicketApp042319 - Copy\TicketApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ahagar_adm\Desktop\Andy's Stuff\C#\TicketApp\TicketApp042319 - Copy\TicketApp\bin\Antlr3.Runtime.dll
+C:\Users\ahagar_adm\Desktop\Andy's Stuff\C#\TicketApp\TicketApp042319 - Copy\TicketApp\bin\EntityFramework.dll
+C:\Users\ahagar_adm\Desktop\Andy's Stuff\C#\TicketApp\TicketApp042319 - Copy\TicketApp\bin\EntityFramework.SqlServer.dll
+C:\Users\ahagar_adm\Desktop\Andy's Stuff\C#\TicketApp\TicketApp042319 - Copy\TicketApp\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ahagar_adm\Desktop\Andy's Stuff\C#\TicketApp\TicketApp042319 - Copy\TicketApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\ahagar_adm\Desktop\Andy's Stuff\C#\TicketApp\TicketApp042319 - Copy\TicketApp\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\ahagar_adm\Desktop\Andy's Stuff\C#\TicketApp\TicketApp042319 - Copy\TicketApp\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\ahagar_adm\Desktop\Andy's Stuff\C#\TicketApp\TicketApp042319 - Copy\TicketApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ahagar_adm\Desktop\Andy's Stuff\C#\TicketApp\TicketApp042319 - Copy\TicketApp\bin\Microsoft.Owin.dll
+C:\Users\ahagar_adm\Desktop\Andy's Stuff\C#\TicketApp\TicketApp042319 - Copy\TicketApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ahagar_adm\Desktop\Andy's Stuff\C#\TicketApp\TicketApp042319 - Copy\TicketApp\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\ahagar_adm\Desktop\Andy's Stuff\C#\TicketApp\TicketApp042319 - Copy\TicketApp\bin\Microsoft.Owin.Security.dll
+C:\Users\ahagar_adm\Desktop\Andy's Stuff\C#\TicketApp\TicketApp042319 - Copy\TicketApp\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\ahagar_adm\Desktop\Andy's Stuff\C#\TicketApp\TicketApp042319 - Copy\TicketApp\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\ahagar_adm\Desktop\Andy's Stuff\C#\TicketApp\TicketApp042319 - Copy\TicketApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\ahagar_adm\Desktop\Andy's Stuff\C#\TicketApp\TicketApp042319 - Copy\TicketApp\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\ahagar_adm\Desktop\Andy's Stuff\C#\TicketApp\TicketApp042319 - Copy\TicketApp\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\ahagar_adm\Desktop\Andy's Stuff\C#\TicketApp\TicketApp042319 - Copy\TicketApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ahagar_adm\Desktop\Andy's Stuff\C#\TicketApp\TicketApp042319 - Copy\TicketApp\bin\Newtonsoft.Json.dll
+C:\Users\ahagar_adm\Desktop\Andy's Stuff\C#\TicketApp\TicketApp042319 - Copy\TicketApp\bin\Owin.dll
+C:\Users\ahagar_adm\Desktop\Andy's Stuff\C#\TicketApp\TicketApp042319 - Copy\TicketApp\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ahagar_adm\Desktop\Andy's Stuff\C#\TicketApp\TicketApp042319 - Copy\TicketApp\bin\System.Web.Helpers.dll
+C:\Users\ahagar_adm\Desktop\Andy's Stuff\C#\TicketApp\TicketApp042319 - Copy\TicketApp\bin\System.Web.Mvc.dll
+C:\Users\ahagar_adm\Desktop\Andy's Stuff\C#\TicketApp\TicketApp042319 - Copy\TicketApp\bin\System.Web.Optimization.dll
+C:\Users\ahagar_adm\Desktop\Andy's Stuff\C#\TicketApp\TicketApp042319 - Copy\TicketApp\bin\System.Web.Razor.dll
+C:\Users\ahagar_adm\Desktop\Andy's Stuff\C#\TicketApp\TicketApp042319 - Copy\TicketApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ahagar_adm\Desktop\Andy's Stuff\C#\TicketApp\TicketApp042319 - Copy\TicketApp\bin\System.Web.WebPages.dll
+C:\Users\ahagar_adm\Desktop\Andy's Stuff\C#\TicketApp\TicketApp042319 - Copy\TicketApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\ahagar_adm\Desktop\Andy's Stuff\C#\TicketApp\TicketApp042319 - Copy\TicketApp\bin\WebGrease.dll
+C:\Users\ahagar_adm\Desktop\Andy's Stuff\C#\TicketApp\TicketApp042319 - Copy\TicketApp\bin\System.Web.Helpers.xml
+C:\Users\ahagar_adm\Desktop\Andy's Stuff\C#\TicketApp\TicketApp042319 - Copy\TicketApp\bin\System.Web.Mvc.xml
+C:\Users\ahagar_adm\Desktop\Andy's Stuff\C#\TicketApp\TicketApp042319 - Copy\TicketApp\bin\System.Web.Optimization.xml
+C:\Users\ahagar_adm\Desktop\Andy's Stuff\C#\TicketApp\TicketApp042319 - Copy\TicketApp\bin\System.Web.Razor.xml
+C:\Users\ahagar_adm\Desktop\Andy's Stuff\C#\TicketApp\TicketApp042319 - Copy\TicketApp\bin\System.Web.WebPages.xml
+C:\Users\ahagar_adm\Desktop\Andy's Stuff\C#\TicketApp\TicketApp042319 - Copy\TicketApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ahagar_adm\Desktop\Andy's Stuff\C#\TicketApp\TicketApp042319 - Copy\TicketApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\ahagar_adm\Desktop\Andy's Stuff\C#\TicketApp\TicketApp042319 - Copy\TicketApp\bin\Newtonsoft.Json.xml
+C:\Users\ahagar_adm\Desktop\Andy's Stuff\C#\TicketApp\TicketApp042319 - Copy\TicketApp\bin\Antlr3.Runtime.pdb
+C:\Users\ahagar_adm\Desktop\Andy's Stuff\C#\TicketApp\TicketApp042319 - Copy\TicketApp\bin\EntityFramework.xml
+C:\Users\ahagar_adm\Desktop\Andy's Stuff\C#\TicketApp\TicketApp042319 - Copy\TicketApp\bin\EntityFramework.SqlServer.xml
+C:\Users\ahagar_adm\Desktop\Andy's Stuff\C#\TicketApp\TicketApp042319 - Copy\TicketApp\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ahagar_adm\Desktop\Andy's Stuff\C#\TicketApp\TicketApp042319 - Copy\TicketApp\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\ahagar_adm\Desktop\Andy's Stuff\C#\TicketApp\TicketApp042319 - Copy\TicketApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ahagar_adm\Desktop\Andy's Stuff\C#\TicketApp\TicketApp042319 - Copy\TicketApp\bin\Microsoft.Owin.xml
+C:\Users\ahagar_adm\Desktop\Andy's Stuff\C#\TicketApp\TicketApp042319 - Copy\TicketApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ahagar_adm\Desktop\Andy's Stuff\C#\TicketApp\TicketApp042319 - Copy\TicketApp\bin\Microsoft.Owin.Security.xml
+C:\Users\ahagar_adm\Desktop\Andy's Stuff\C#\TicketApp\TicketApp042319 - Copy\TicketApp\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\ahagar_adm\Desktop\Andy's Stuff\C#\TicketApp\TicketApp042319 - Copy\TicketApp\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\ahagar_adm\Desktop\Andy's Stuff\C#\TicketApp\TicketApp042319 - Copy\TicketApp\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\ahagar_adm\Desktop\Andy's Stuff\C#\TicketApp\TicketApp042319 - Copy\TicketApp\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\ahagar_adm\Desktop\Andy's Stuff\C#\TicketApp\TicketApp042319 - Copy\TicketApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\ahagar_adm\Desktop\Andy's Stuff\C#\TicketApp\TicketApp042319 - Copy\TicketApp\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\ahagar_adm\Desktop\Andy's Stuff\C#\TicketApp\TicketApp042319 - Copy\TicketApp\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\ahagar_adm\Desktop\Andy's Stuff\C#\TicketApp\TicketApp042319 - Copy\TicketApp\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\ahagar_adm\Desktop\Andy's Stuff\C#\TicketApp\TicketApp042319 - Copy\TicketApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ahagar_adm\Desktop\Andy's Stuff\C#\TicketApp\TicketApp042319 - Copy\TicketApp\obj\Debug\TicketApp.csprojAssemblyReference.cache
+C:\Users\ahagar_adm\Desktop\Andy's Stuff\C#\TicketApp\TicketApp042319 - Copy\TicketApp\obj\Debug\TicketApp.Migrations.InitialMigration.resources
+C:\Users\ahagar_adm\Desktop\Andy's Stuff\C#\TicketApp\TicketApp042319 - Copy\TicketApp\obj\Debug\TicketApp.Migrations.AddCustomer.resources
+C:\Users\ahagar_adm\Desktop\Andy's Stuff\C#\TicketApp\TicketApp042319 - Copy\TicketApp\obj\Debug\TicketApp.Migrations.AddSubjectAndDatePostedToMessage.resources
+C:\Users\ahagar_adm\Desktop\Andy's Stuff\C#\TicketApp\TicketApp042319 - Copy\TicketApp\obj\Debug\TicketApp.csproj.GenerateResource.cache
+C:\Users\ahagar_adm\Desktop\Andy's Stuff\C#\TicketApp\TicketApp042319 - Copy\TicketApp\obj\Debug\TicketApp.csproj.CoreCompileInputs.cache
+C:\Users\ahagar_adm\Desktop\Andy's Stuff\C#\TicketApp\TicketApp042319 - Copy\TicketApp\obj\Debug\TicketApp.csproj.CopyComplete
+C:\Users\ahagar_adm\Desktop\Andy's Stuff\C#\TicketApp\TicketApp042319 - Copy\TicketApp\obj\Debug\TicketApp.dll
+C:\Users\ahagar_adm\Desktop\Andy's Stuff\C#\TicketApp\TicketApp042319 - Copy\TicketApp\obj\Debug\TicketApp.pdb
+C:\Users\ahagar_adm\Desktop\Andy's Stuff\C#\TicketApp\TicketApp042319 - Copy\TicketApp\obj\Debug\TicketApp.Migrations.AddReplyModel.resources
+C:\Users\_\source\repos\TicketApp\TicketApp042919\TicketApp\bin\TicketApp.dll.config
+C:\Users\_\source\repos\TicketApp\TicketApp042919\TicketApp\bin\TicketApp.dll
+C:\Users\_\source\repos\TicketApp\TicketApp042919\TicketApp\bin\TicketApp.pdb
+C:\Users\_\source\repos\TicketApp\TicketApp042919\TicketApp\bin\roslyn\csc.exe
+C:\Users\_\source\repos\TicketApp\TicketApp042919\TicketApp\bin\roslyn\csc.exe.config
+C:\Users\_\source\repos\TicketApp\TicketApp042919\TicketApp\bin\roslyn\csc.rsp
+C:\Users\_\source\repos\TicketApp\TicketApp042919\TicketApp\bin\roslyn\csi.exe
+C:\Users\_\source\repos\TicketApp\TicketApp042919\TicketApp\bin\roslyn\csi.rsp
+C:\Users\_\source\repos\TicketApp\TicketApp042919\TicketApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\_\source\repos\TicketApp\TicketApp042919\TicketApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\_\source\repos\TicketApp\TicketApp042919\TicketApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\_\source\repos\TicketApp\TicketApp042919\TicketApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\_\source\repos\TicketApp\TicketApp042919\TicketApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\_\source\repos\TicketApp\TicketApp042919\TicketApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\_\source\repos\TicketApp\TicketApp042919\TicketApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\_\source\repos\TicketApp\TicketApp042919\TicketApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\_\source\repos\TicketApp\TicketApp042919\TicketApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\_\source\repos\TicketApp\TicketApp042919\TicketApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\_\source\repos\TicketApp\TicketApp042919\TicketApp\bin\roslyn\System.AppContext.dll
+C:\Users\_\source\repos\TicketApp\TicketApp042919\TicketApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\_\source\repos\TicketApp\TicketApp042919\TicketApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\_\source\repos\TicketApp\TicketApp042919\TicketApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\_\source\repos\TicketApp\TicketApp042919\TicketApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\_\source\repos\TicketApp\TicketApp042919\TicketApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\_\source\repos\TicketApp\TicketApp042919\TicketApp\bin\roslyn\vbc.exe
+C:\Users\_\source\repos\TicketApp\TicketApp042919\TicketApp\bin\roslyn\vbc.exe.config
+C:\Users\_\source\repos\TicketApp\TicketApp042919\TicketApp\bin\roslyn\vbc.rsp
+C:\Users\_\source\repos\TicketApp\TicketApp042919\TicketApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\_\source\repos\TicketApp\TicketApp042919\TicketApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\_\source\repos\TicketApp\TicketApp042919\TicketApp\bin\Antlr3.Runtime.dll
+C:\Users\_\source\repos\TicketApp\TicketApp042919\TicketApp\bin\EntityFramework.dll
+C:\Users\_\source\repos\TicketApp\TicketApp042919\TicketApp\bin\EntityFramework.SqlServer.dll
+C:\Users\_\source\repos\TicketApp\TicketApp042919\TicketApp\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\_\source\repos\TicketApp\TicketApp042919\TicketApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\_\source\repos\TicketApp\TicketApp042919\TicketApp\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\_\source\repos\TicketApp\TicketApp042919\TicketApp\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\_\source\repos\TicketApp\TicketApp042919\TicketApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\_\source\repos\TicketApp\TicketApp042919\TicketApp\bin\Microsoft.Owin.dll
+C:\Users\_\source\repos\TicketApp\TicketApp042919\TicketApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\_\source\repos\TicketApp\TicketApp042919\TicketApp\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\_\source\repos\TicketApp\TicketApp042919\TicketApp\bin\Microsoft.Owin.Security.dll
+C:\Users\_\source\repos\TicketApp\TicketApp042919\TicketApp\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\_\source\repos\TicketApp\TicketApp042919\TicketApp\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\_\source\repos\TicketApp\TicketApp042919\TicketApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\_\source\repos\TicketApp\TicketApp042919\TicketApp\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\_\source\repos\TicketApp\TicketApp042919\TicketApp\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\_\source\repos\TicketApp\TicketApp042919\TicketApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\_\source\repos\TicketApp\TicketApp042919\TicketApp\bin\Newtonsoft.Json.dll
+C:\Users\_\source\repos\TicketApp\TicketApp042919\TicketApp\bin\Owin.dll
+C:\Users\_\source\repos\TicketApp\TicketApp042919\TicketApp\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\_\source\repos\TicketApp\TicketApp042919\TicketApp\bin\System.Web.Helpers.dll
+C:\Users\_\source\repos\TicketApp\TicketApp042919\TicketApp\bin\System.Web.Mvc.dll
+C:\Users\_\source\repos\TicketApp\TicketApp042919\TicketApp\bin\System.Web.Optimization.dll
+C:\Users\_\source\repos\TicketApp\TicketApp042919\TicketApp\bin\System.Web.Razor.dll
+C:\Users\_\source\repos\TicketApp\TicketApp042919\TicketApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\_\source\repos\TicketApp\TicketApp042919\TicketApp\bin\System.Web.WebPages.dll
+C:\Users\_\source\repos\TicketApp\TicketApp042919\TicketApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\_\source\repos\TicketApp\TicketApp042919\TicketApp\bin\WebGrease.dll
+C:\Users\_\source\repos\TicketApp\TicketApp042919\TicketApp\bin\System.Web.Helpers.xml
+C:\Users\_\source\repos\TicketApp\TicketApp042919\TicketApp\bin\System.Web.Mvc.xml
+C:\Users\_\source\repos\TicketApp\TicketApp042919\TicketApp\bin\System.Web.Optimization.xml
+C:\Users\_\source\repos\TicketApp\TicketApp042919\TicketApp\bin\System.Web.Razor.xml
+C:\Users\_\source\repos\TicketApp\TicketApp042919\TicketApp\bin\System.Web.WebPages.xml
+C:\Users\_\source\repos\TicketApp\TicketApp042919\TicketApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\_\source\repos\TicketApp\TicketApp042919\TicketApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\_\source\repos\TicketApp\TicketApp042919\TicketApp\bin\Newtonsoft.Json.xml
+C:\Users\_\source\repos\TicketApp\TicketApp042919\TicketApp\bin\Antlr3.Runtime.pdb
+C:\Users\_\source\repos\TicketApp\TicketApp042919\TicketApp\bin\EntityFramework.xml
+C:\Users\_\source\repos\TicketApp\TicketApp042919\TicketApp\bin\EntityFramework.SqlServer.xml
+C:\Users\_\source\repos\TicketApp\TicketApp042919\TicketApp\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\_\source\repos\TicketApp\TicketApp042919\TicketApp\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\_\source\repos\TicketApp\TicketApp042919\TicketApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\_\source\repos\TicketApp\TicketApp042919\TicketApp\bin\Microsoft.Owin.xml
+C:\Users\_\source\repos\TicketApp\TicketApp042919\TicketApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\_\source\repos\TicketApp\TicketApp042919\TicketApp\bin\Microsoft.Owin.Security.xml
+C:\Users\_\source\repos\TicketApp\TicketApp042919\TicketApp\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\_\source\repos\TicketApp\TicketApp042919\TicketApp\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\_\source\repos\TicketApp\TicketApp042919\TicketApp\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\_\source\repos\TicketApp\TicketApp042919\TicketApp\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\_\source\repos\TicketApp\TicketApp042919\TicketApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\_\source\repos\TicketApp\TicketApp042919\TicketApp\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\_\source\repos\TicketApp\TicketApp042919\TicketApp\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\_\source\repos\TicketApp\TicketApp042919\TicketApp\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\_\source\repos\TicketApp\TicketApp042919\TicketApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\_\source\repos\TicketApp\TicketApp042919\TicketApp\obj\Debug\TicketApp.csprojAssemblyReference.cache
+C:\Users\_\source\repos\TicketApp\TicketApp042919\TicketApp\obj\Debug\TicketApp.Migrations.InitialMigration.resources
+C:\Users\_\source\repos\TicketApp\TicketApp042919\TicketApp\obj\Debug\TicketApp.Migrations.AddCustomer.resources
+C:\Users\_\source\repos\TicketApp\TicketApp042919\TicketApp\obj\Debug\TicketApp.Migrations.AddSubjectAndDatePostedToMessage.resources
+C:\Users\_\source\repos\TicketApp\TicketApp042919\TicketApp\obj\Debug\TicketApp.Migrations.AddReplyModel.resources
+C:\Users\_\source\repos\TicketApp\TicketApp042919\TicketApp\obj\Debug\TicketApp.csproj.GenerateResource.cache
+C:\Users\_\source\repos\TicketApp\TicketApp042919\TicketApp\obj\Debug\TicketApp.csproj.CoreCompileInputs.cache
+C:\Users\_\source\repos\TicketApp\TicketApp042919\TicketApp\obj\Debug\TicketApp.csproj.CopyComplete
+C:\Users\_\source\repos\TicketApp\TicketApp042919\TicketApp\obj\Debug\TicketApp.dll
+C:\Users\_\source\repos\TicketApp\TicketApp042919\TicketApp\obj\Debug\TicketApp.pdb
+C:\Users\_\source\repos\TicketApp\TicketApp042919\TicketApp\obj\Debug\TicketApp.Migrations.AddTech.resources
+C:\Users\_\source\repos\TicketApp\TicketApp042919\TicketApp\obj\Debug\TicketApp.Migrations.PopulateTechs.resources
+C:\Users\_\source\repos\TicketApp\TicketApp043019\TicketApp\bin\TicketApp.dll.config
+C:\Users\_\source\repos\TicketApp\TicketApp043019\TicketApp\bin\TicketApp.dll
+C:\Users\_\source\repos\TicketApp\TicketApp043019\TicketApp\bin\TicketApp.pdb
+C:\Users\_\source\repos\TicketApp\TicketApp043019\TicketApp\bin\roslyn\csc.exe
+C:\Users\_\source\repos\TicketApp\TicketApp043019\TicketApp\bin\roslyn\csc.exe.config
+C:\Users\_\source\repos\TicketApp\TicketApp043019\TicketApp\bin\roslyn\csc.rsp
+C:\Users\_\source\repos\TicketApp\TicketApp043019\TicketApp\bin\roslyn\csi.exe
+C:\Users\_\source\repos\TicketApp\TicketApp043019\TicketApp\bin\roslyn\csi.rsp
+C:\Users\_\source\repos\TicketApp\TicketApp043019\TicketApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\_\source\repos\TicketApp\TicketApp043019\TicketApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\_\source\repos\TicketApp\TicketApp043019\TicketApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\_\source\repos\TicketApp\TicketApp043019\TicketApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\_\source\repos\TicketApp\TicketApp043019\TicketApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\_\source\repos\TicketApp\TicketApp043019\TicketApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\_\source\repos\TicketApp\TicketApp043019\TicketApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\_\source\repos\TicketApp\TicketApp043019\TicketApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\_\source\repos\TicketApp\TicketApp043019\TicketApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\_\source\repos\TicketApp\TicketApp043019\TicketApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\_\source\repos\TicketApp\TicketApp043019\TicketApp\bin\roslyn\System.AppContext.dll
+C:\Users\_\source\repos\TicketApp\TicketApp043019\TicketApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\_\source\repos\TicketApp\TicketApp043019\TicketApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\_\source\repos\TicketApp\TicketApp043019\TicketApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\_\source\repos\TicketApp\TicketApp043019\TicketApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\_\source\repos\TicketApp\TicketApp043019\TicketApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\_\source\repos\TicketApp\TicketApp043019\TicketApp\bin\roslyn\vbc.exe
+C:\Users\_\source\repos\TicketApp\TicketApp043019\TicketApp\bin\roslyn\vbc.exe.config
+C:\Users\_\source\repos\TicketApp\TicketApp043019\TicketApp\bin\roslyn\vbc.rsp
+C:\Users\_\source\repos\TicketApp\TicketApp043019\TicketApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\_\source\repos\TicketApp\TicketApp043019\TicketApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\_\source\repos\TicketApp\TicketApp043019\TicketApp\bin\Antlr3.Runtime.dll
+C:\Users\_\source\repos\TicketApp\TicketApp043019\TicketApp\bin\EntityFramework.dll
+C:\Users\_\source\repos\TicketApp\TicketApp043019\TicketApp\bin\EntityFramework.SqlServer.dll
+C:\Users\_\source\repos\TicketApp\TicketApp043019\TicketApp\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\_\source\repos\TicketApp\TicketApp043019\TicketApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\_\source\repos\TicketApp\TicketApp043019\TicketApp\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\_\source\repos\TicketApp\TicketApp043019\TicketApp\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\_\source\repos\TicketApp\TicketApp043019\TicketApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\_\source\repos\TicketApp\TicketApp043019\TicketApp\bin\Microsoft.Owin.dll
+C:\Users\_\source\repos\TicketApp\TicketApp043019\TicketApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\_\source\repos\TicketApp\TicketApp043019\TicketApp\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\_\source\repos\TicketApp\TicketApp043019\TicketApp\bin\Microsoft.Owin.Security.dll
+C:\Users\_\source\repos\TicketApp\TicketApp043019\TicketApp\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\_\source\repos\TicketApp\TicketApp043019\TicketApp\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\_\source\repos\TicketApp\TicketApp043019\TicketApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\_\source\repos\TicketApp\TicketApp043019\TicketApp\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\_\source\repos\TicketApp\TicketApp043019\TicketApp\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\_\source\repos\TicketApp\TicketApp043019\TicketApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\_\source\repos\TicketApp\TicketApp043019\TicketApp\bin\Newtonsoft.Json.dll
+C:\Users\_\source\repos\TicketApp\TicketApp043019\TicketApp\bin\Owin.dll
+C:\Users\_\source\repos\TicketApp\TicketApp043019\TicketApp\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\_\source\repos\TicketApp\TicketApp043019\TicketApp\bin\System.Web.Helpers.dll
+C:\Users\_\source\repos\TicketApp\TicketApp043019\TicketApp\bin\System.Web.Mvc.dll
+C:\Users\_\source\repos\TicketApp\TicketApp043019\TicketApp\bin\System.Web.Optimization.dll
+C:\Users\_\source\repos\TicketApp\TicketApp043019\TicketApp\bin\System.Web.Razor.dll
+C:\Users\_\source\repos\TicketApp\TicketApp043019\TicketApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\_\source\repos\TicketApp\TicketApp043019\TicketApp\bin\System.Web.WebPages.dll
+C:\Users\_\source\repos\TicketApp\TicketApp043019\TicketApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\_\source\repos\TicketApp\TicketApp043019\TicketApp\bin\WebGrease.dll
+C:\Users\_\source\repos\TicketApp\TicketApp043019\TicketApp\bin\System.Web.Helpers.xml
+C:\Users\_\source\repos\TicketApp\TicketApp043019\TicketApp\bin\System.Web.Mvc.xml
+C:\Users\_\source\repos\TicketApp\TicketApp043019\TicketApp\bin\System.Web.Optimization.xml
+C:\Users\_\source\repos\TicketApp\TicketApp043019\TicketApp\bin\System.Web.Razor.xml
+C:\Users\_\source\repos\TicketApp\TicketApp043019\TicketApp\bin\System.Web.WebPages.xml
+C:\Users\_\source\repos\TicketApp\TicketApp043019\TicketApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\_\source\repos\TicketApp\TicketApp043019\TicketApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\_\source\repos\TicketApp\TicketApp043019\TicketApp\bin\Newtonsoft.Json.xml
+C:\Users\_\source\repos\TicketApp\TicketApp043019\TicketApp\bin\Antlr3.Runtime.pdb
+C:\Users\_\source\repos\TicketApp\TicketApp043019\TicketApp\bin\EntityFramework.xml
+C:\Users\_\source\repos\TicketApp\TicketApp043019\TicketApp\bin\EntityFramework.SqlServer.xml
+C:\Users\_\source\repos\TicketApp\TicketApp043019\TicketApp\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\_\source\repos\TicketApp\TicketApp043019\TicketApp\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\_\source\repos\TicketApp\TicketApp043019\TicketApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\_\source\repos\TicketApp\TicketApp043019\TicketApp\bin\Microsoft.Owin.xml
+C:\Users\_\source\repos\TicketApp\TicketApp043019\TicketApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\_\source\repos\TicketApp\TicketApp043019\TicketApp\bin\Microsoft.Owin.Security.xml
+C:\Users\_\source\repos\TicketApp\TicketApp043019\TicketApp\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\_\source\repos\TicketApp\TicketApp043019\TicketApp\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\_\source\repos\TicketApp\TicketApp043019\TicketApp\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\_\source\repos\TicketApp\TicketApp043019\TicketApp\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\_\source\repos\TicketApp\TicketApp043019\TicketApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\_\source\repos\TicketApp\TicketApp043019\TicketApp\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\_\source\repos\TicketApp\TicketApp043019\TicketApp\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\_\source\repos\TicketApp\TicketApp043019\TicketApp\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\_\source\repos\TicketApp\TicketApp043019\TicketApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\_\source\repos\TicketApp\TicketApp043019\TicketApp\obj\Debug\TicketApp.csprojAssemblyReference.cache
+C:\Users\_\source\repos\TicketApp\TicketApp043019\TicketApp\obj\Debug\TicketApp.Migrations.InitialMigration.resources
+C:\Users\_\source\repos\TicketApp\TicketApp043019\TicketApp\obj\Debug\TicketApp.Migrations.AddCustomer.resources
+C:\Users\_\source\repos\TicketApp\TicketApp043019\TicketApp\obj\Debug\TicketApp.Migrations.AddSubjectAndDatePostedToMessage.resources
+C:\Users\_\source\repos\TicketApp\TicketApp043019\TicketApp\obj\Debug\TicketApp.Migrations.AddReplyModel.resources
+C:\Users\_\source\repos\TicketApp\TicketApp043019\TicketApp\obj\Debug\TicketApp.Migrations.AddTech.resources
+C:\Users\_\source\repos\TicketApp\TicketApp043019\TicketApp\obj\Debug\TicketApp.Migrations.PopulateTechs.resources
+C:\Users\_\source\repos\TicketApp\TicketApp043019\TicketApp\obj\Debug\TicketApp.csproj.GenerateResource.cache
+C:\Users\_\source\repos\TicketApp\TicketApp043019\TicketApp\obj\Debug\TicketApp.csproj.CoreCompileInputs.cache
+C:\Users\_\source\repos\TicketApp\TicketApp043019\TicketApp\obj\Debug\TicketApp.csproj.CopyComplete
+C:\Users\_\source\repos\TicketApp\TicketApp043019\TicketApp\obj\Debug\TicketApp.dll
+C:\Users\_\source\repos\TicketApp\TicketApp043019\TicketApp\obj\Debug\TicketApp.pdb
+C:\Users\_\source\repos\TicketApp\TicketApp050219\TicketApp\bin\TicketApp.dll.config
+C:\Users\_\source\repos\TicketApp\TicketApp050219\TicketApp\bin\TicketApp.dll
+C:\Users\_\source\repos\TicketApp\TicketApp050219\TicketApp\bin\TicketApp.pdb
+C:\Users\_\source\repos\TicketApp\TicketApp050219\TicketApp\bin\roslyn\csc.exe
+C:\Users\_\source\repos\TicketApp\TicketApp050219\TicketApp\bin\roslyn\csc.exe.config
+C:\Users\_\source\repos\TicketApp\TicketApp050219\TicketApp\bin\roslyn\csc.rsp
+C:\Users\_\source\repos\TicketApp\TicketApp050219\TicketApp\bin\roslyn\csi.exe
+C:\Users\_\source\repos\TicketApp\TicketApp050219\TicketApp\bin\roslyn\csi.rsp
+C:\Users\_\source\repos\TicketApp\TicketApp050219\TicketApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\_\source\repos\TicketApp\TicketApp050219\TicketApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\_\source\repos\TicketApp\TicketApp050219\TicketApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\_\source\repos\TicketApp\TicketApp050219\TicketApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\_\source\repos\TicketApp\TicketApp050219\TicketApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\_\source\repos\TicketApp\TicketApp050219\TicketApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\_\source\repos\TicketApp\TicketApp050219\TicketApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\_\source\repos\TicketApp\TicketApp050219\TicketApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\_\source\repos\TicketApp\TicketApp050219\TicketApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\_\source\repos\TicketApp\TicketApp050219\TicketApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\_\source\repos\TicketApp\TicketApp050219\TicketApp\bin\roslyn\System.AppContext.dll
+C:\Users\_\source\repos\TicketApp\TicketApp050219\TicketApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\_\source\repos\TicketApp\TicketApp050219\TicketApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\_\source\repos\TicketApp\TicketApp050219\TicketApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\_\source\repos\TicketApp\TicketApp050219\TicketApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\_\source\repos\TicketApp\TicketApp050219\TicketApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\_\source\repos\TicketApp\TicketApp050219\TicketApp\bin\roslyn\vbc.exe
+C:\Users\_\source\repos\TicketApp\TicketApp050219\TicketApp\bin\roslyn\vbc.exe.config
+C:\Users\_\source\repos\TicketApp\TicketApp050219\TicketApp\bin\roslyn\vbc.rsp
+C:\Users\_\source\repos\TicketApp\TicketApp050219\TicketApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\_\source\repos\TicketApp\TicketApp050219\TicketApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\_\source\repos\TicketApp\TicketApp050219\TicketApp\bin\Antlr3.Runtime.dll
+C:\Users\_\source\repos\TicketApp\TicketApp050219\TicketApp\bin\EntityFramework.dll
+C:\Users\_\source\repos\TicketApp\TicketApp050219\TicketApp\bin\EntityFramework.SqlServer.dll
+C:\Users\_\source\repos\TicketApp\TicketApp050219\TicketApp\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\_\source\repos\TicketApp\TicketApp050219\TicketApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\_\source\repos\TicketApp\TicketApp050219\TicketApp\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\_\source\repos\TicketApp\TicketApp050219\TicketApp\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\_\source\repos\TicketApp\TicketApp050219\TicketApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\_\source\repos\TicketApp\TicketApp050219\TicketApp\bin\Microsoft.Owin.dll
+C:\Users\_\source\repos\TicketApp\TicketApp050219\TicketApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\_\source\repos\TicketApp\TicketApp050219\TicketApp\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\_\source\repos\TicketApp\TicketApp050219\TicketApp\bin\Microsoft.Owin.Security.dll
+C:\Users\_\source\repos\TicketApp\TicketApp050219\TicketApp\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\_\source\repos\TicketApp\TicketApp050219\TicketApp\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\_\source\repos\TicketApp\TicketApp050219\TicketApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\_\source\repos\TicketApp\TicketApp050219\TicketApp\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\_\source\repos\TicketApp\TicketApp050219\TicketApp\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\_\source\repos\TicketApp\TicketApp050219\TicketApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\_\source\repos\TicketApp\TicketApp050219\TicketApp\bin\Newtonsoft.Json.dll
+C:\Users\_\source\repos\TicketApp\TicketApp050219\TicketApp\bin\Owin.dll
+C:\Users\_\source\repos\TicketApp\TicketApp050219\TicketApp\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\_\source\repos\TicketApp\TicketApp050219\TicketApp\bin\System.Web.Helpers.dll
+C:\Users\_\source\repos\TicketApp\TicketApp050219\TicketApp\bin\System.Web.Mvc.dll
+C:\Users\_\source\repos\TicketApp\TicketApp050219\TicketApp\bin\System.Web.Optimization.dll
+C:\Users\_\source\repos\TicketApp\TicketApp050219\TicketApp\bin\System.Web.Razor.dll
+C:\Users\_\source\repos\TicketApp\TicketApp050219\TicketApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\_\source\repos\TicketApp\TicketApp050219\TicketApp\bin\System.Web.WebPages.dll
+C:\Users\_\source\repos\TicketApp\TicketApp050219\TicketApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\_\source\repos\TicketApp\TicketApp050219\TicketApp\bin\WebGrease.dll
+C:\Users\_\source\repos\TicketApp\TicketApp050219\TicketApp\bin\System.Web.Helpers.xml
+C:\Users\_\source\repos\TicketApp\TicketApp050219\TicketApp\bin\System.Web.Mvc.xml
+C:\Users\_\source\repos\TicketApp\TicketApp050219\TicketApp\bin\System.Web.Optimization.xml
+C:\Users\_\source\repos\TicketApp\TicketApp050219\TicketApp\bin\System.Web.Razor.xml
+C:\Users\_\source\repos\TicketApp\TicketApp050219\TicketApp\bin\System.Web.WebPages.xml
+C:\Users\_\source\repos\TicketApp\TicketApp050219\TicketApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\_\source\repos\TicketApp\TicketApp050219\TicketApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\_\source\repos\TicketApp\TicketApp050219\TicketApp\bin\Newtonsoft.Json.xml
+C:\Users\_\source\repos\TicketApp\TicketApp050219\TicketApp\bin\Antlr3.Runtime.pdb
+C:\Users\_\source\repos\TicketApp\TicketApp050219\TicketApp\bin\EntityFramework.xml
+C:\Users\_\source\repos\TicketApp\TicketApp050219\TicketApp\bin\EntityFramework.SqlServer.xml
+C:\Users\_\source\repos\TicketApp\TicketApp050219\TicketApp\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\_\source\repos\TicketApp\TicketApp050219\TicketApp\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\_\source\repos\TicketApp\TicketApp050219\TicketApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\_\source\repos\TicketApp\TicketApp050219\TicketApp\bin\Microsoft.Owin.xml
+C:\Users\_\source\repos\TicketApp\TicketApp050219\TicketApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\_\source\repos\TicketApp\TicketApp050219\TicketApp\bin\Microsoft.Owin.Security.xml
+C:\Users\_\source\repos\TicketApp\TicketApp050219\TicketApp\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\_\source\repos\TicketApp\TicketApp050219\TicketApp\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\_\source\repos\TicketApp\TicketApp050219\TicketApp\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\_\source\repos\TicketApp\TicketApp050219\TicketApp\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\_\source\repos\TicketApp\TicketApp050219\TicketApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\_\source\repos\TicketApp\TicketApp050219\TicketApp\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\_\source\repos\TicketApp\TicketApp050219\TicketApp\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\_\source\repos\TicketApp\TicketApp050219\TicketApp\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\_\source\repos\TicketApp\TicketApp050219\TicketApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\_\source\repos\TicketApp\TicketApp050219\TicketApp\obj\Debug\TicketApp.csprojAssemblyReference.cache
+C:\Users\_\source\repos\TicketApp\TicketApp050219\TicketApp\obj\Debug\TicketApp.Migrations.InitialMigration.resources
+C:\Users\_\source\repos\TicketApp\TicketApp050219\TicketApp\obj\Debug\TicketApp.Migrations.AddCustomer.resources
+C:\Users\_\source\repos\TicketApp\TicketApp050219\TicketApp\obj\Debug\TicketApp.Migrations.AddSubjectAndDatePostedToMessage.resources
+C:\Users\_\source\repos\TicketApp\TicketApp050219\TicketApp\obj\Debug\TicketApp.Migrations.AddReplyModel.resources
+C:\Users\_\source\repos\TicketApp\TicketApp050219\TicketApp\obj\Debug\TicketApp.Migrations.AddTech.resources
+C:\Users\_\source\repos\TicketApp\TicketApp050219\TicketApp\obj\Debug\TicketApp.Migrations.PopulateTechs.resources
+C:\Users\_\source\repos\TicketApp\TicketApp050219\TicketApp\obj\Debug\TicketApp.csproj.GenerateResource.cache
+C:\Users\_\source\repos\TicketApp\TicketApp050219\TicketApp\obj\Debug\TicketApp.csproj.CoreCompileInputs.cache
+C:\Users\_\source\repos\TicketApp\TicketApp050219\TicketApp\obj\Debug\TicketApp.csproj.CopyComplete
+C:\Users\_\source\repos\TicketApp\TicketApp050219\TicketApp\obj\Debug\TicketApp.dll
+C:\Users\_\source\repos\TicketApp\TicketApp050219\TicketApp\obj\Debug\TicketApp.pdb
+C:\Users\_\source\repos\TicketApp\TicketApp051119\TicketApp\bin\TicketApp.dll.config
+C:\Users\_\source\repos\TicketApp\TicketApp051119\TicketApp\bin\TicketApp.dll
+C:\Users\_\source\repos\TicketApp\TicketApp051119\TicketApp\bin\TicketApp.pdb
+C:\Users\_\source\repos\TicketApp\TicketApp051119\TicketApp\bin\roslyn\csc.exe
+C:\Users\_\source\repos\TicketApp\TicketApp051119\TicketApp\bin\roslyn\csc.exe.config
+C:\Users\_\source\repos\TicketApp\TicketApp051119\TicketApp\bin\roslyn\csc.rsp
+C:\Users\_\source\repos\TicketApp\TicketApp051119\TicketApp\bin\roslyn\csi.exe
+C:\Users\_\source\repos\TicketApp\TicketApp051119\TicketApp\bin\roslyn\csi.rsp
+C:\Users\_\source\repos\TicketApp\TicketApp051119\TicketApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\_\source\repos\TicketApp\TicketApp051119\TicketApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\_\source\repos\TicketApp\TicketApp051119\TicketApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\_\source\repos\TicketApp\TicketApp051119\TicketApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\_\source\repos\TicketApp\TicketApp051119\TicketApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\_\source\repos\TicketApp\TicketApp051119\TicketApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\_\source\repos\TicketApp\TicketApp051119\TicketApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\_\source\repos\TicketApp\TicketApp051119\TicketApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\_\source\repos\TicketApp\TicketApp051119\TicketApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\_\source\repos\TicketApp\TicketApp051119\TicketApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\_\source\repos\TicketApp\TicketApp051119\TicketApp\bin\roslyn\System.AppContext.dll
+C:\Users\_\source\repos\TicketApp\TicketApp051119\TicketApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\_\source\repos\TicketApp\TicketApp051119\TicketApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\_\source\repos\TicketApp\TicketApp051119\TicketApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\_\source\repos\TicketApp\TicketApp051119\TicketApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\_\source\repos\TicketApp\TicketApp051119\TicketApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\_\source\repos\TicketApp\TicketApp051119\TicketApp\bin\roslyn\vbc.exe
+C:\Users\_\source\repos\TicketApp\TicketApp051119\TicketApp\bin\roslyn\vbc.exe.config
+C:\Users\_\source\repos\TicketApp\TicketApp051119\TicketApp\bin\roslyn\vbc.rsp
+C:\Users\_\source\repos\TicketApp\TicketApp051119\TicketApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\_\source\repos\TicketApp\TicketApp051119\TicketApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\_\source\repos\TicketApp\TicketApp051119\TicketApp\bin\Antlr3.Runtime.dll
+C:\Users\_\source\repos\TicketApp\TicketApp051119\TicketApp\bin\EntityFramework.dll
+C:\Users\_\source\repos\TicketApp\TicketApp051119\TicketApp\bin\EntityFramework.SqlServer.dll
+C:\Users\_\source\repos\TicketApp\TicketApp051119\TicketApp\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\_\source\repos\TicketApp\TicketApp051119\TicketApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\_\source\repos\TicketApp\TicketApp051119\TicketApp\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\_\source\repos\TicketApp\TicketApp051119\TicketApp\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\_\source\repos\TicketApp\TicketApp051119\TicketApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\_\source\repos\TicketApp\TicketApp051119\TicketApp\bin\Microsoft.Owin.dll
+C:\Users\_\source\repos\TicketApp\TicketApp051119\TicketApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\_\source\repos\TicketApp\TicketApp051119\TicketApp\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\_\source\repos\TicketApp\TicketApp051119\TicketApp\bin\Microsoft.Owin.Security.dll
+C:\Users\_\source\repos\TicketApp\TicketApp051119\TicketApp\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\_\source\repos\TicketApp\TicketApp051119\TicketApp\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\_\source\repos\TicketApp\TicketApp051119\TicketApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\_\source\repos\TicketApp\TicketApp051119\TicketApp\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\_\source\repos\TicketApp\TicketApp051119\TicketApp\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\_\source\repos\TicketApp\TicketApp051119\TicketApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\_\source\repos\TicketApp\TicketApp051119\TicketApp\bin\Newtonsoft.Json.dll
+C:\Users\_\source\repos\TicketApp\TicketApp051119\TicketApp\bin\Owin.dll
+C:\Users\_\source\repos\TicketApp\TicketApp051119\TicketApp\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\_\source\repos\TicketApp\TicketApp051119\TicketApp\bin\System.Web.Helpers.dll
+C:\Users\_\source\repos\TicketApp\TicketApp051119\TicketApp\bin\System.Web.Mvc.dll
+C:\Users\_\source\repos\TicketApp\TicketApp051119\TicketApp\bin\System.Web.Optimization.dll
+C:\Users\_\source\repos\TicketApp\TicketApp051119\TicketApp\bin\System.Web.Razor.dll
+C:\Users\_\source\repos\TicketApp\TicketApp051119\TicketApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\_\source\repos\TicketApp\TicketApp051119\TicketApp\bin\System.Web.WebPages.dll
+C:\Users\_\source\repos\TicketApp\TicketApp051119\TicketApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\_\source\repos\TicketApp\TicketApp051119\TicketApp\bin\WebGrease.dll
+C:\Users\_\source\repos\TicketApp\TicketApp051119\TicketApp\bin\System.Web.Helpers.xml
+C:\Users\_\source\repos\TicketApp\TicketApp051119\TicketApp\bin\System.Web.Mvc.xml
+C:\Users\_\source\repos\TicketApp\TicketApp051119\TicketApp\bin\System.Web.Optimization.xml
+C:\Users\_\source\repos\TicketApp\TicketApp051119\TicketApp\bin\System.Web.Razor.xml
+C:\Users\_\source\repos\TicketApp\TicketApp051119\TicketApp\bin\System.Web.WebPages.xml
+C:\Users\_\source\repos\TicketApp\TicketApp051119\TicketApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\_\source\repos\TicketApp\TicketApp051119\TicketApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\_\source\repos\TicketApp\TicketApp051119\TicketApp\bin\Newtonsoft.Json.xml
+C:\Users\_\source\repos\TicketApp\TicketApp051119\TicketApp\bin\Antlr3.Runtime.pdb
+C:\Users\_\source\repos\TicketApp\TicketApp051119\TicketApp\bin\EntityFramework.xml
+C:\Users\_\source\repos\TicketApp\TicketApp051119\TicketApp\bin\EntityFramework.SqlServer.xml
+C:\Users\_\source\repos\TicketApp\TicketApp051119\TicketApp\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\_\source\repos\TicketApp\TicketApp051119\TicketApp\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\_\source\repos\TicketApp\TicketApp051119\TicketApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\_\source\repos\TicketApp\TicketApp051119\TicketApp\bin\Microsoft.Owin.xml
+C:\Users\_\source\repos\TicketApp\TicketApp051119\TicketApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\_\source\repos\TicketApp\TicketApp051119\TicketApp\bin\Microsoft.Owin.Security.xml
+C:\Users\_\source\repos\TicketApp\TicketApp051119\TicketApp\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\_\source\repos\TicketApp\TicketApp051119\TicketApp\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\_\source\repos\TicketApp\TicketApp051119\TicketApp\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\_\source\repos\TicketApp\TicketApp051119\TicketApp\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\_\source\repos\TicketApp\TicketApp051119\TicketApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\_\source\repos\TicketApp\TicketApp051119\TicketApp\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\_\source\repos\TicketApp\TicketApp051119\TicketApp\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\_\source\repos\TicketApp\TicketApp051119\TicketApp\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\_\source\repos\TicketApp\TicketApp051119\TicketApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\_\source\repos\TicketApp\TicketApp051119\TicketApp\obj\Debug\TicketApp.csprojAssemblyReference.cache
+C:\Users\_\source\repos\TicketApp\TicketApp051119\TicketApp\obj\Debug\TicketApp.Migrations.InitialMigration.resources
+C:\Users\_\source\repos\TicketApp\TicketApp051119\TicketApp\obj\Debug\TicketApp.Migrations.AddCustomer.resources
+C:\Users\_\source\repos\TicketApp\TicketApp051119\TicketApp\obj\Debug\TicketApp.Migrations.AddSubjectAndDatePostedToMessage.resources
+C:\Users\_\source\repos\TicketApp\TicketApp051119\TicketApp\obj\Debug\TicketApp.Migrations.AddReplyModel.resources
+C:\Users\_\source\repos\TicketApp\TicketApp051119\TicketApp\obj\Debug\TicketApp.Migrations.AddTech.resources
+C:\Users\_\source\repos\TicketApp\TicketApp051119\TicketApp\obj\Debug\TicketApp.Migrations.PopulateTechs.resources
+C:\Users\_\source\repos\TicketApp\TicketApp051119\TicketApp\obj\Debug\TicketApp.csproj.GenerateResource.cache
+C:\Users\_\source\repos\TicketApp\TicketApp051119\TicketApp\obj\Debug\TicketApp.csproj.CoreCompileInputs.cache
+C:\Users\_\source\repos\TicketApp\TicketApp051119\TicketApp\obj\Debug\TicketApp.csproj.CopyComplete
+C:\Users\_\source\repos\TicketApp\TicketApp051119\TicketApp\obj\Debug\TicketApp.dll
+C:\Users\_\source\repos\TicketApp\TicketApp051119\TicketApp\obj\Debug\TicketApp.pdb
