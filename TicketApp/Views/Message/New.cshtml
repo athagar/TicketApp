@@ -25,11 +25,11 @@
         @Html.TextAreaFor(m => m.Message.Body, new { @class = "form-control" })
     </div>
 
-    <div class="form-group">
+    @*<div class="form-group">
         @Html.LabelFor(m => m.Message.TechId)
         @Html.DropDownListFor(m => m.Message.TechId, new SelectList(Model.Teches, "Id", "Name"), "Select Tech", new { @class = "form-control" })
         
-    </div>
+    </div>*@
 
     <div class="form-group">
         <div class="col-md-offset-2 col-md-10">

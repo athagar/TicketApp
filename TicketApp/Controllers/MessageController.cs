@@ -65,6 +65,7 @@ namespace TicketApp.Controllers
         public ActionResult New (Message message)
         {
             message.DatePosted = DateTime.Now;
+            message.TechId = 14;
             
             if(message.Id ==0)
                 _context.Messages.Add(message);
